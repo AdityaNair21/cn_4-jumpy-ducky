@@ -10,7 +10,7 @@ We want you to set up the score and add to the score as long as the player has l
 //Your code to set up the score and lives when the game is started.
 info.setScore(0)
 info.setLife(3)
-// NO MORE SAMPLE CODE
+// This is a test (github)
 /***********************************\ 
 |       YOUR CODE GOES ABOVE        |
 \***********************************/
